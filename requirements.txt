@@ -1,0 +1,2 @@
+gensim
+tensor2tensor
